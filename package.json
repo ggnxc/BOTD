@@ -1,5 +1,5 @@
 {
-  "name": "rimurubotz",
+  "name": "BOT-D",
   "version": "1.0.0",
   "description": "Bot whatsapp multi device",
   "main": "index.js",
@@ -18,7 +18,7 @@
     "automation",
     "multi-device"
   ],
-  "author": "Rimurubotz",
+  "author": "Dimas",
   "license": "ISC",
   "dependencies": {
     "@adiwajshing/baileys": "^4.4.0",
